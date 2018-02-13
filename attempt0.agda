@@ -1,6 +1,7 @@
 
 module attempt0 where
 
+open import Data.Nat
 
 size : ℕ
 size = 2
